@@ -1,4 +1,4 @@
-## Hi, I’m @aquarius-software. Thank you for visiting my repository.
+## Hi, I’m @aquarius-software. Welcome to my repository!
 - I have 25 years of experience in programming focused on web technologies.
 - My current main tech stack: Next.js, React, and JavaScript/TypeScript.
 - Most of my repositories are **private** now for security reasons. I am sorry.
